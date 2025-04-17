@@ -2,6 +2,7 @@
 Python Data Structure and Algorithms Coding Practice
 
 ## 🗂️ Directory Structure
+```text
 data-structures-algorithms/
 │
 ├── arrays/                    # Problems related to arrays
@@ -20,3 +21,4 @@ data-structures-algorithms/
 │   └── AI
 │
 └── README.md
+```
